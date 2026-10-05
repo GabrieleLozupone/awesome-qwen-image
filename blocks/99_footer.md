@@ -6,6 +6,7 @@
 
 <!-- OWNER BADGES -->
 [gh-gguf-org]: https://img.shields.io/badge/gguf-org-lightgrey?style=flat-square&logo=huggingface&logoColor=white
+[gh-19nbrown]: https://img.shields.io/badge/19nbrown-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-471Def]: https://img.shields.io/badge/471Def-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-AIImageStudio]: https://img.shields.io/badge/AIImageStudio-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-Abiray]: https://img.shields.io/badge/Abiray-lightgrey?style=flat-square&logo=huggingface&logoColor=white
@@ -27,6 +28,7 @@
 [gh-LuffyTheFox]: https://img.shields.io/badge/LuffyTheFox-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-ML--Intern--lab]: https://img.shields.io/badge/ML--Intern--lab-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-ModelsLab]: https://img.shields.io/badge/ModelsLab-lightgrey?style=flat-square&logo=huggingface&logoColor=white
+[gh-NicknickAI]: https://img.shields.io/badge/NicknickAI-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-Noctaluna]: https://img.shields.io/badge/Noctaluna-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-PrunaAI]: https://img.shields.io/badge/PrunaAI-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-Qwen]: https://img.shields.io/badge/Qwen-lightgrey?style=flat-square&logo=huggingface&logoColor=white
@@ -53,6 +55,7 @@
 [gh-dh123456789123]: https://img.shields.io/badge/dh123456789123-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-diffnamehard]: https://img.shields.io/badge/diffnamehard-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-e--n--v--y]: https://img.shields.io/badge/e--n--v--y-lightgrey?style=flat-square&logo=huggingface&logoColor=white
+[gh-empero--ai]: https://img.shields.io/badge/empero--ai-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-evankuo]: https://img.shields.io/badge/evankuo-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-foofifoo]: https://img.shields.io/badge/foofifoo-lightgrey?style=flat-square&logo=huggingface&logoColor=white
 [gh-glowleaf]: https://img.shields.io/badge/glowleaf-lightgrey?style=flat-square&logo=huggingface&logoColor=white
